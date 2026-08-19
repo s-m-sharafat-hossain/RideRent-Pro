@@ -1,0 +1,11 @@
+{
+    "name": "riderentpro/vehicle-rental",
+    "description": "Smart Vehicle Rental Management System",
+    "type": "project",
+    "require": {
+        "php": ">=8.0"
+    },
+    "require-dev": {
+        "phpdocumentor/phpdocumentor": "^3.4"
+    }
+}
